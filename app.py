@@ -16,7 +16,7 @@ st.sidebar.info(
     HeartWise AI predicts the likelihood of heart disease
     using a Machine Learning model trained on health data.
 
-    ⚡ Built with:
+    Built with:
     - Python
     - Streamlit
     - Scikit-learn
