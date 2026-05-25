@@ -24,7 +24,7 @@ st.sidebar.info(
     """
 )
 st.sidebar.success("Developed by Senjuti Maitra")
-st.sidebar.markdown("[GitHub Repository](https://github.com/yourusername)")
+st.sidebar.markdown("[GitHub Repository](https://github.com/Senjuti7/Heart-Disease-Prediction.git)")
 
 # Collect user input
 age = st.slider("Age", 18, 100, 40)
